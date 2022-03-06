@@ -4,8 +4,8 @@ This repo contains tutorial material for Python visualization tool Plotly.
 1. Download [Anaconda](https://www.anaconda.com/products/individual)
 2. Create new jupyter notebook environment 
 3. Clone this repository
-4. Install libraries in requirements.txt
-5. Run notebooks in provided order
+4. Active environment and install libraries from requirements.txt
+5. Run notebooks in the following order
 
 #### Contents
 1. [Plotly Tutorial](https://github.com/ssuleyma/Plotly-Dash-Tutorial/blob/main/Notebooks/1_Plotly_Tutotial.ipynb)
