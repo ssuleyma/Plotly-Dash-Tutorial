@@ -8,8 +8,8 @@ This repo contains tutorial material for Python visualization tool Plotly.
 5. Run notebooks in provided order
 
 #### Contents
-1. [Plotly Tutorial]()
-2. [Introduction to Dash]()
-3. [Stock Market Dash App]()
-4. [Update Stock Market Dash App]()
+1. [Plotly Tutorial](https://github.com/ssuleyma/Plotly-Dash-Tutorial/blob/main/Notebooks/1_Plotly_Tutotial.ipynb)
+2. [Introduction to Dash](https://github.com/ssuleyma/Plotly-Dash-Tutorial/blob/main/Notebooks/2_Dash_Intro.ipynb)
+3. [Stock Ticker Dash App](https://github.com/ssuleyma/Plotly-Dash-Tutorial/blob/main/Notebooks/3_Dash_App.ipynb)
+4. [Update Stock Ticker Dash App](https://github.com/ssuleyma/Plotly-Dash-Tutorial/blob/main/Notebooks/4_Dash_Update.ipynb)
 
